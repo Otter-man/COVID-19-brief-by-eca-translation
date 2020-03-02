@@ -1,7 +1,7 @@
 # COVID-19-brief-by-eca-translation
 Project to translate COVID-19 brief for friends and family by eca to various languages
 
-It was published on 29 of february by a member of effectivealtruism.org forums, **eca** here:
+It was published on 29 of february by a member of effectivealtruism.org forums, **eca** (Ethan C. Alley) here:
 https://forum.effectivealtruism.org/posts/HbqQyTDjvw2wGGKYw/covid-19-brief-for-friends-and-family
 
 Source for the current version of text (for translation) is here:
