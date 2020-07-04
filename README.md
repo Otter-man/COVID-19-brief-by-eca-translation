@@ -1,14 +1,11 @@
-# COVID-19-brief-by-eca-translation
-Project to translate COVID-19 brief for friends and family by eca to various languages
+## COVID-19-brief-by-eca-translation
+#this project is not maintained further
+#проект больше не поддерживается
 
-It was published on 29 of february by a member of effectivealtruism.org forums, **eca** (Ethan C. Alley) here:
-https://forum.effectivealtruism.org/posts/HbqQyTDjvw2wGGKYw/covid-19-brief-for-friends-and-family
+This project was a little guide about COVID-19, when the pandemic still wasn't declared by WHO and the virus spread in the west was still relatively small, and people didn't know about it.
+It helped me brief some of my friends and family and I hope it helped other people too.
+I owe thanks to the original author, Ethan C. Alley, who copmosed this guide in english.
 
-Source for the current version of text (for translation) is here:
-https://docs.google.com/document/d/1vumYWoiV7NlVoc27rMQvmVkVu5cOAbnaW_RKkq2RMaQ/edit
-
-I found the text very helpful in describing what is COVID-19, what is it's implications and what you can do to prepare. 
-It's targeted "for friends and family" - people who haven't been following COVID-19 news and don't yet understand how serious it is.
-
-
-
+Этот проект был переводом небольшого гайда о том, что такое COVID19, еще до того, как ВОЗ объявили пандемию. 
+Он помог мне рассказать о новом вирусе друзьям и семье, и я надеюсь он помог и другим людям.
+Я безгранично благодарен автору оригинального гайда на английском, Ethan C. Alley.
