@@ -1,8 +1,8 @@
-## COVID-19-brief-by-eca-translation
+# COVID-19-brief-by-eca-translation
 
-#this project is not maintained further
+### this project is not maintained further
 
-#проект больше не поддерживается
+### проект больше не поддерживается
 
 This project was a little guide about COVID-19, when the pandemic still wasn't declared by WHO and the virus spread in the west was still relatively small, and people didn't know about it.
 It helped me brief some of my friends and family and I hope it helped other people too.
